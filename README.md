@@ -1,6 +1,10 @@
 # Hi, I'm Maarten
 
-Hey there! I'm here to tell you about myself. 
-I'm a go-getter at heart, always up for a challenge and ready to tackle new opportunities.
-My jovial personality makes me a joy to be around, and I'm always eager to learn and grow. 
-I believe in the power of education and enjoy sharing my knowledge and experience as a coach to help others reach their full potential.
+I'm a tech lead and Java architect who cares deeply about clarity, intent and sustainable software.
+I spend most of my time helping teams make better technical decisions, improve existing systems and grow with confidence.
+
+I believe code should communicate intent, tests should explain behavior and software should be built to be understood by humans first.
+While I enjoy new technologies, I get the most satisfaction from making complex systems simpler and more readable.
+
+I also like sharing what I learn along the way, through writing, coaching and podcasting.
+If you're interested in clean code, pragmatic architecture and real world software engineering, you're in the right place.
